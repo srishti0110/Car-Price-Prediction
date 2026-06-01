@@ -2,15 +2,6 @@
 
 An end-to-end Machine Learning project designed to predict the resale value of used cars based on various features such as vehicle age, brand, driven kilometers, fuel type, and transmission.
 
-## ⚠️ Note for Internship Reviewers
-GitHub's built-in notebook preview rendering is currently experiencing intermittent global server outages. 
-
-To view my complete project code, comprehensive Markdown notes, data visualizations, and feature engineering steps seamlessly, please use the live Google Colab backup link below:
-
-👉 **[Click Here to View the Project on Google Colab](PASTE_YOUR_CAR_PREDICTION_COLAB_URL_HERE)**
-
----
-
 ## 📊 Project Overview
 Predicting used car prices is a classic regression problem. This project walks through the entire data science workflow, including data cleaning, extensive feature engineering, exploratory data analysis (EDA), and model deployment tracking.
 
